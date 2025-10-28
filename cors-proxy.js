@@ -5,7 +5,7 @@
  * 
  * This proxy server enables the React app to bypass CORS restrictions
  * when calling external APIs like USNO Navy and OPALE IMCCE.
- * 
+ * check inh
  * Usage: node cors-proxy.js
  * Server will start on http://localhost:8080
  */
